@@ -1,0 +1,99 @@
+h2{
+    font-size: xx-large;
+}
+
+body{
+    background-image:url(../images/lightgreen.jpg);
+}
+
+
+.inspringen1{
+    margin-left: 17.5cm;
+    background-color: lightgoldenrodyellow;
+    width: 135px;
+    
+}
+
+.inspringen2{
+    margin-left: 18cm;
+    background-color: lightgoldenrodyellow;
+    width: 95px;
+}
+
+.foto{
+    text-align: center;
+}
+
+.quote{
+    font-size: 1cm;
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+}
+
+
+
+table{
+    margin-left: auto;
+    margin-top: 150px;
+    margin-right: auto;
+    
+    text-align: center;
+    border-collapse: collapse;
+    
+
+}
+
+table,th,td{
+    border: 5px solid black;
+}
+
+.openingsuren{
+    font-size: 40px;
+}
+
+li{
+    display: inline;
+    margin-left: 40px;
+    font-size: 0.7cm;
+    border: 5px solid black;
+    background-color: lightskyblue;
+    
+}
+
+ul
+{
+    margin-left: 10.5cm; 
+}
+/* was 7.5 */
+
+.projectbackground
+{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgoldenrodyellow;
+    width: 180px;
+    text-align: center;
+}
+
+.prijslijst
+{
+    visibility: hidden;
+}
+
+.email
+{
+    margin-left: 11cm;
+    background-color: lightgoldenrodyellow;
+    width: 600px;
+    text-align: center;
+    font-size: 1.5cm;
+}
+
+.socialmedia
+{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgoldenrodyellow;
+    width: 440px;
+    text-align: center;
+}
